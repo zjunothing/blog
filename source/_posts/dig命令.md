@@ -17,9 +17,10 @@ dig 命令是一个DNS 查询工具，可以用来向域名服务器（NS） 查
 
 dig 中常见的查询类型有：
 * A:   the IP address
-* TXT: text annotations
-* MX : mail exchanges
 * NS : nameservers
+* CNAME: alias(别名)
+* MX : mail exchanges
+* TXT: text annotations
 
 可以使用 dig ANY 来指定匹配任何类型的查询
 下面是 dig ANY google.com 的查询结果
