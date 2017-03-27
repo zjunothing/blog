@@ -27,7 +27,7 @@ inoremap <C-e> <C-o>$
 # inoremap  insert mode 下 map 一个 key
 # <C-e> 定义的新 key
 # <C-o> 作用见 Tip2
-$ 跳到末尾，然后由于<c-o>又马上回到插入模式
+# $ 跳到末尾，然后由于<c-o>又马上回到插入模式
 
 inoremap <C-a> <C-o>0   # 同理，设置 c-a 跳到行首
 ```
