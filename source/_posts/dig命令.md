@@ -1,7 +1,7 @@
 ---
 title: dig 命令
 date: 2017-03-23 22:06:25
-tags: Linux
+tags: linux
 ---
 dig 命令是一个DNS 查询工具，可以用来向域名服务器（NS） 查询域名对应的 IP。
 理解 dig 命令的输出有助于理解 DNS 的工作原理。
